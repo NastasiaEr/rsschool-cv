@@ -26,8 +26,9 @@ Technical engineer in civil engineering
  
 ## Education
 * University: 
-+ Samara State University of architecture and civil engineering, Civil Engineering major
+  + Samara State University of architecture and civil engineering, Civil Engineering major
 * Courses:
-+ Immanuel Kant Baltic Federal Univercitu
+  + Immanuel Kant Baltic Federal Univercitu
  
 ## Languages
+English B1
