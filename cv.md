@@ -2,7 +2,7 @@
 ## Contacts
 * Location: Samara, Russia
 * Phone: +7 9276909865
-* Email: [gennadini@mail.ru]
+* Email: <gennadini@mail.ru>
 * GitHub: [NastasiaEr](https://github.com/NastasiaEr)
  
 ## About Me
