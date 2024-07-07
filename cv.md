@@ -6,7 +6,8 @@
 * GitHub: [NastasiaEr](https://github.com/NastasiaEr)
  
 ## About Me
-I work as a technical engineer. I think that my actual job will lead me to stagnation some day or other. I really need in activities where I can develop during my life. I have good interpersonal skills, am an excellent team worker. I want to get knowledge and skills that will be enought for employment in a company.
+    I work as a technical engineer for a construction company. I'm keen on graphic editors, so I started learning how to write code. I'm an excellent team worker, responsible and determined. I want to get knowledge and skills that will be enough for employment in a company.
+
  
 ## Skills
 * Autocad
