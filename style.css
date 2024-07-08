@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(19, 102, 91);
+}
+
+h1,
+.navigation {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.list {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+}
+
+.logo {
+    width: 100px; 
+    height: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
